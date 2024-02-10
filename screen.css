@@ -18,13 +18,14 @@ h1{
     padding-left: 40px;
     border-radius: 0px 0px 0 0;
     font-family: Arial, sans-serif;
-    color: #FFFFFF;
+    color: #EEEEEE;
     top: 00px;
     left: 00px;   
 }
 
 h2{
     font-size: 50px;
+    color: #EEEEEE;
     font-family: Nunito, sans-serif;
     text-align: center;
     padding: ;
@@ -36,11 +37,13 @@ h2{
 
 h3{
     font-size: 30px;
+    color: #EEEEEE;
     margin-top: 40px
 }
 
 p{
-    font-size: px
+    font-size: 20px;
+    color: #EEEEEE;
   
 }
 
